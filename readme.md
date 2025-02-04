@@ -4,7 +4,7 @@ This assignment **must be completed individually** to ensure you are meeting all
 
 There is no response document for this assignment. All test cases and results should be placed within the test documentation in the test methods of each test file.
 
-All the files for this assignment will be found in the GitHub classroom ***prove-04*** repository. You will commit changes to your own repository for your submission for this assignment.
+All the files for this assignment will be found in the GitHub classroom ***prove-04-alt*** repository. You will commit changes to your own repository for your submission for this assignment.
 
 #### Step 1: [Accept your assignment repository](prove-classroom-alt){:target="_blank"}
 
@@ -32,5 +32,5 @@ All the files for this assignment will be found in the GitHub classroom ***prove
 
 ## Submission
 You need to submit the following for this assignment:
-* Make sure all of your changes are committed and pushed to the `main` branch of your **byui-cse212-classroom-w25-prove-04-alt-prove-04-alt** repository
+* Make sure all of your changes are committed and pushed to the `main` branch of your **w25-prove-04-alt-jacobkertesz-main** repository
 * Submit a link to your repository in I-Learn
